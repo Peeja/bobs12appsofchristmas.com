@@ -1,6 +1,6 @@
 require 'sinatra'
 require 'haml'
-require 'activesupport'
+require 'active_support'
 require 'linguistics'
 
 configure do
