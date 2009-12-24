@@ -1,0 +1,90 @@
+/* @override 
+	http://localhost:4567/stylesheets/main.css
+*/
+
+body {
+  background-color: #960000;
+  margin: 0;
+  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+div#main {
+  margin-right: auto;
+  margin-left: auto;
+  width: 700px;
+  background: url(/images/candy_stripe.png) repeat 0 0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+div#content {
+  background-color: #009200;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+p#header {
+  color: #fff;
+  font-size: 48px;
+  padding-bottom: 20px;
+  line-height: 0.8;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+div#main ul#gifts {
+  padding-bottom: 50px;
+}
+
+div#main ul#gifts > li {
+  list-style-type: none;
+  color: #fff;
+  overflow: auto;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+div#main ul#gifts > li:first-child {
+  background-color: #0e551b;
+}
+
+div#main ul#gifts > li > p {
+  font-size: 35px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+div#main ul#gifts > li a {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+  position: relative;
+  text-decoration: none;
+  color: #fff;
+}
+
+div#main ul#gifts > li img.icon {
+  width: 100%;
+  height: 100%;
+}
+
+div#main ul#gifts > li a div.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 97px;
+  background-color: #000;
+  opacity: 0.65;
+  text-align: right;
+  padding-top: 5px;
+  padding-bottom: 3px;
+  font-size: 13px;
+  padding-right: 3px;
+  visibility: hidden;
+}
+
+div#main ul#gifts > li a:hover div.overlay {
+  visibility: visible;
+}

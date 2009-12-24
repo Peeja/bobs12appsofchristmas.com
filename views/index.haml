@@ -1,0 +1,23 @@
+!!!
+
+%html
+  %head
+    %link{:rel => "stylesheet", :type => "text/css", :href => "/stylesheets/reset.css"}
+    %link{:rel => "stylesheet", :type => "text/css", :href => "/stylesheets/main.css"}
+  %body
+    #main
+      #content
+        %p#header
+          On the
+          = day_of_christmas.numwords.ordinal
+          day of Christmas,
+          %br
+          my iPhone gave to me&hellip;
+        %ul#gifts
+          - gifts.each do |gift|
+            %li
+              %a{:href => gift["url"], :target => "_blank"}
+                %img.icon{:src => gift["icon"]}
+                .overlay download
+              %p= gift["lyric"]
+              .more_info= gift["description"]
