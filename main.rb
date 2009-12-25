@@ -9,7 +9,7 @@ end
 
 
 get '/' do
-  day_of_christmas = 12
+  day_of_christmas = Date.today - Date.parse("Dec 24, 2009")
   gifts = YAML.load_file("data/days.yml").sort_by(&:first).reverse.select { |day, _| day <= day_of_christmas }.map(&:last)
   
   # "and" hack
