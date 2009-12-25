@@ -16,8 +16,9 @@
         %ul#gifts
           - gifts.each do |gift|
             %li
+              %p.lyric= gift["lyric"]
               %a{:href => gift["url"], :target => "_blank"}
                 %img.icon{:src => gift["icon"]}
                 .overlay download
-              %p= gift["lyric"]
-              .more_info= gift["description"]
+              %p.name= gift["name"]
+              %p.more_info= gift["description"]

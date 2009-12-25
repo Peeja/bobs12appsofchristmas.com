@@ -1,25 +1,30 @@
 7:
   lyric: "seven pictures talking,"
+  name: Le Petit Dummy
   icon: "/images/petit_dummy/icon.jpg"
   description: Make pictures sing and talk.  You can even add your own pictures and sounds.  It's...a little creepy.
 
 6:
   lyric: "six crowds reacting,"
+  name: Le Petit Dummy
   icon: "/images/laughtrack/icon.jpg"
   description: Six crowd effects to make your jokes sound funnier.  Never let a joke fall flat again!
 
 5:
   lyric: "five carpentry tools!"
+  name: iHandy Carpenter
   icon: "/images/carpenter/icon.jpg"
   description: An oddly practical collection of carpentry tools.  A plumb bob, a surface level, a bubble level, a protractor, and a ruler all in one app.
 
 4:
   lyric: "four lighters flaming,"
+  name: Zippo Lighter
   icon: "/images/zippo/icon.jpg"
   description: If all you use your lighter for is holding up at rock concerts, this is the app for you.  You can blow it around, but you can't blow it out.  After all, it's a Zippo.
 
 1:
   lyric: "a trombone made from a leaf!"
+  name: Leaf Trombone
   icon: "/images/leaf_trombone/icon.jpg"
   description: Master the lost art of the leaf trombone!  Follow the floating leaves to play any of two thousand songs, and play with friends over Bluetooth.
   url: http://itunes.apple.com/us/app/leaf-trombone-world-stage/id309080428?mt=8
