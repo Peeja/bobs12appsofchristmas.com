@@ -1,26 +1,72 @@
+12:
+  name: The Creeps!
+  icon: "/images/creeps/icon.jpg"
+  url: http://itunes.apple.com/us/app/the-creeps/id300670609?mt=8
+
+11:
+  name: SnapTell
+  icon: "/images/snap_tell/icon.jpg"
+  url: http://itunes.apple.com/us/app/snaptell/id291920403?mt=8
+
+10:
+  lyric: "ten digits dialing,"
+  name: Rotary Dialer
+  icon: "/images/rotary_dialer/icon.jpg"
+  url: http://itunes.apple.com/us/app/rotary-dialer/id284926166?mt=8
+
+9:
+  lyric: "nine balls a-rolling,"
+  name: Ramp Champ
+  icon: "/images/ramp_champ/icon.jpg"
+  url: http://itunes.apple.com/us/app/ramp-champ/id317284160?mt=8
+
+8:
+  lyric: "eight barcode numbers,"
+  name: RedLaser
+  icon: "/images/red_laser/icon.jpg"
+  url: http://itunes.apple.com/us/app/redlaser/id312720263?mt=8
+
 7:
   lyric: "seven pictures talking,"
   name: Le Petit Dummy
   icon: "/images/petit_dummy/icon.jpg"
   description: Make pictures sing and talk.  You can even add your own pictures and sounds.  It's...a little creepy.
+  url: http://itunes.apple.com/us/app/le-petit-dummy/id336082558?mt=8
 
 6:
   lyric: "six crowds reacting,"
-  name: Le Petit Dummy
+  name: LaughTrack
   icon: "/images/laughtrack/icon.jpg"
   description: Six crowd effects to make your jokes sound funnier.  Never let a joke fall flat again!
+  url: http://itunes.apple.com/us/app/laughtrack/id310518242?mt=8
 
 5:
   lyric: "five carpentry tools!"
   name: iHandy Carpenter
   icon: "/images/carpenter/icon.jpg"
   description: An oddly practical collection of carpentry tools.  A plumb bob, a surface level, a bubble level, a protractor, and a ruler all in one app.
+  url: http://itunes.apple.com/us/app/ihandy-carpenter/id293621500?mt=8
 
 4:
   lyric: "four lighters flaming,"
   name: Zippo Lighter
   icon: "/images/zippo/icon.jpg"
   description: If all you use your lighter for is holding up at rock concerts, this is the app for you.  You can blow it around, but you can't blow it out.  After all, it's a Zippo.
+  url: http://itunes.apple.com/us/app/id291622252?mt=8
+  # free
+
+3:
+  name: Canabalt
+  icon: "/images/canabalt/icon.jpg"
+  url: http://itunes.apple.com/us/app/canabalt/id333180061?mt=8
+  # 2.99
+
+2:
+  lyric: "two heroes looting,"
+  name: Hook Champ
+  icon: "/images/hook_champ/icon.jpg"
+  url: http://itunes.apple.com/us/app/hook-champ/id334626134?mt=8
+  # 2.99
 
 1:
   lyric: "a trombone made from a leaf!"
