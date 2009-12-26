@@ -12,18 +12,21 @@
   lyric: "ten digits dialing,"
   name: Rotary Dialer
   icon: "/images/rotary_dialer/icon.jpg"
+  description: Back in my day, when we dialed a phone number, we used a real dial.  Now those days are back.  Walking through the snow uphill both ways not included.
   url: http://itunes.apple.com/us/app/rotary-dialer/id284926166?mt=8
 
 9:
   lyric: "nine balls a-rolling,"
   name: Ramp Champ
   icon: "/images/ramp_champ/icon.jpg"
+  description: Remember the old midway games where you'd roll the ball up a ramp and try to knock down targets?  No?  Well, now you can!  (No relation to Hook Champ.)
   url: http://itunes.apple.com/us/app/ramp-champ/id317284160?mt=8
 
 8:
   lyric: "eight barcode numbers,"
   name: RedLaser
   icon: "/images/red_laser/icon.jpg"
+  description: It's a barcode scanner.  That's right, your phone can now scan barcodes.  Just hold it up to any UPC.  Useful, maybe.  Nifty, yes.
   url: http://itunes.apple.com/us/app/redlaser/id312720263?mt=8
 
 7:
@@ -55,8 +58,10 @@
   url: http://itunes.apple.com/us/app/id291622252?mt=8
 
 3:
+  lyric: "three buildings crumbling,"
   name: Canabalt
   icon: "/images/canabalt/icon.jpg"
+  description: "If yesterday's game was too complicated, this one's perfect.  There's only one control: jump.  Outrun the urban apocalypse by leaping from rooftop to rooftop."
   url: http://itunes.apple.com/us/app/canabalt/id333180061?mt=8
 
 2:
