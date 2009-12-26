@@ -53,20 +53,18 @@
   icon: "/images/zippo/icon.jpg"
   description: If all you use your lighter for is holding up at rock concerts, this is the app for you.  You can blow it around, but you can't blow it out.  After all, it's a Zippo.
   url: http://itunes.apple.com/us/app/id291622252?mt=8
-  # free
 
 3:
   name: Canabalt
   icon: "/images/canabalt/icon.jpg"
   url: http://itunes.apple.com/us/app/canabalt/id333180061?mt=8
-  # 2.99
 
 2:
   lyric: "two heroes looting,"
   name: Hook Champ
+  description: "This one's a little tricky.  Your goal is to get to the end of each level as quickly as you can, picking up loot along the way.  Your secret weapon: a grappling hook.  The first level will show how you how to play.  Good luck."
   icon: "/images/hook_champ/icon.jpg"
   url: http://itunes.apple.com/us/app/hook-champ/id334626134?mt=8
-  # 2.99
 
 1:
   lyric: "a trombone made from a leaf!"
