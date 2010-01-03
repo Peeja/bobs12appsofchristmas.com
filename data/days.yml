@@ -1,12 +1,16 @@
 12:
-  name: The Creeps!
-  icon: "/images/creeps/icon.jpg"
-  url: http://itunes.apple.com/us/app/the-creeps/id300670609?mt=8
+  lryic: "twelve jewels a-matching,"
+  name: Bejeweled 2
+  icon: "/images/bejeweled/icon.jpg"
+  description: "Remember Jewelbox?  Well, this isn't quite the same game, but it's similar.  Swap gems on the board to create chains of three.\n\nThat's it for the 12 Apps of Chrismas.  Merry Christmas, Dad!"
+  url: http://itunes.apple.com/us/app/bejeweled-2/id284832142?mt=8
 
 11:
-  name: SnapTell
-  icon: "/images/snap_tell/icon.jpg"
-  url: http://itunes.apple.com/us/app/snaptell/id291920403?mt=8
+  lyric: "eleven fruits a-ripening,"
+  name: Harvest
+  icon: "/images/harvest/icon.jpg"
+  description: Tips on selecting and storing 126 kinds of produce, from Acorn Squash to Zuccini.  Which fruits do you squeeze?  Which do you sniff?  Harvest will tell you.
+  url: http://itunes.apple.com/us/app/harvest-select-best-produce/id320650307?mt=8
 
 10:
   lyric: "ten digits dialing,"

@@ -32,4 +32,4 @@
                 %img.icon{:src => gift["icon"]}
                 .overlay download
               %p.name= gift["name"]
-              %p.more_info= gift["description"]
+              %p.more_info= gift["description"].gsub("\n", "<br />")
